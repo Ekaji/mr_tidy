@@ -7,7 +7,7 @@ export default function HeroSection() {
         <div className="relative mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8">
             <div className="max-w-xl text-center sm:text-left">
                 <h1 className="font-extrabold text-5xl text-white">
-                    MrTidy Nigeria
+                    {/* MrTidy Nigeria */}
                     <strong className="text-4xl block font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 ">
                         waste management services.
                     </strong>

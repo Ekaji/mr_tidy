@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Services = () => {
+export default function Services () {
     return (
         <section className=" text-black">
         <div

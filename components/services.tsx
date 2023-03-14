@@ -204,7 +204,7 @@ export default function Services () {
         </p>
       </a>
     </div>
-
+{/* 
     <div className="mt-12 text-center">
       <a
         href="#"
@@ -227,7 +227,7 @@ export default function Services () {
           />
         </svg>
       </a>
-    </div>
+    </div> */}
   </div>
             </div>
                 

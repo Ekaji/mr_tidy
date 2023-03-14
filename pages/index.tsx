@@ -3,7 +3,7 @@ import Image from 'next/image'
 import {Inter} from '@next/font/google'
 import HeroSection from '@/components/heroSection'
 import Services from '@/components/services'
-import Pricing from '@/components/pricing'
+// import Pricing from '@/components/pricing'
 import About from '@/components/about'
 
 const inter = Inter({subsets: ['latin']})

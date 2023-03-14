@@ -3,7 +3,6 @@ import Image from 'next/image'
 import {Inter} from '@next/font/google'
 import HeroSection from '@/components/heroSection'
 import Services from '@/components/services'
-import AboutUs from '@/components/aboutUs'
 import Pricing from '@/components/pricing'
 import About from '@/components/about'
 
@@ -21,7 +20,6 @@ export default function Home() {
             <main className=' '>
               <HeroSection />
               <About />
-              {/* <AboutUs /> */}
               <Services />
               {/* <Pricing /> */}
             </main>

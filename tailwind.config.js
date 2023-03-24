@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-desktop': "url('/solid-waste-landfill-garbage.jpg')",
+        'about_desktop': "url('/https://res.cloudinary.com/tacafrica/image/upload/v1679561443/mr_tidy/Mr_Tidy_Web_Banner_wiinkp.jpg')",
       }
     },
   },

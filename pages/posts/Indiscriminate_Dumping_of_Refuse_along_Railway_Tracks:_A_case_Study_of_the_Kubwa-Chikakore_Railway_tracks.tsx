@@ -8,7 +8,7 @@ export default function Indiscriminate_Dumping_of_Refuse_along_Railway_Tracks() 
       <h1 className='font-extrabold text-5xl' >Indiscriminate Dumping of Refuse along Railway Tracks: A case Study of the Kubwa-Chikakore Railway tracks</h1>
 
       <div className='w-full py-12'>
-        <img src="https://res.cloudinary.com/tacafrica/image/upload/v1679325020/IMG_9738_bryfni.jpg" alt="" className='aspect-video bg-slate-600 ' />
+        <img src="https://res.cloudinary.com/tacafrica/image/upload/v1679668746/mr_tidy/WhatsApp_Image_2023-03-24_at_3.14.15_PM_ns4gx4.jpg" alt="" className='aspect-video bg-slate-600 ' />
       </div>
 
       <div className='space-y-4 text-xl text-black'>

@@ -11,7 +11,7 @@ export default function Services () {
                     <h1
                     className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
                     >
-                    Our Comprehensive Waste Management Services
+                    Our Services
                     </h1>
             
                     <p className="mx-auto mt-4 max-w-xl sm:text-xl sm:leading-relaxed">

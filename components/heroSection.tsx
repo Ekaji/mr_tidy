@@ -9,7 +9,7 @@ export default function HeroSection() {
                 <h1 className="font-extrabold text-5xl text-white">
                     {/* MrTidy Nigeria */}
                     <strong className="text-4xl block font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 ">
-                        waste management services.
+                        Towards a Cleaner and Safer Environment
                     </strong>
                 </h1>
 
@@ -20,10 +20,7 @@ export default function HeroSection() {
                 </p>
 
                 <div className="mt-8 flex flex-wrap gap-4 text-center">
-                    {/* <a href="#" className="block w-full rounded bg-rose-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-rose-700 focus:outline-none focus:ring active:bg-rose-500 sm:w-auto">
-                        Get Started
-                    </a> */}
-
+                   
                     <a href="#" className="block w-full rounded border border-blue-600 bg-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto">
                         Learn More
                     </a>

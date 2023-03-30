@@ -21,7 +21,6 @@ export default function Home() {
               <HeroSection />
               <About />
               <Services />
-              {/* <Pricing /> */}
             </main>
         </>
     )

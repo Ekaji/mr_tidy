@@ -1,7 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
+import { Team } from '@/components/team'
 import React from 'react'
 
-export default function Indiscriminate_Dumping_of_Refuse_along_Railway_Tracks() {
+export default function Index() {
   return (
     <div className='flex flex-col justify-center px-8 md:px-12 lg:px-28 pt-36 space-y-4 pb-40'>
 
@@ -40,6 +41,7 @@ export default function Indiscriminate_Dumping_of_Refuse_along_Railway_Tracks() 
         alon the Kubwa-Chikakore railway tracks and help the residents to realize that a clean railway corridor is a social responsibility asit improves the overall health and overall wellbeing of their families.
         </p>
       </div>
+      <Team />
     </div>
   )
 }

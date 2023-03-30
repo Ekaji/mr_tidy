@@ -1,0 +1,54 @@
+{
+    "organizations": [
+      {
+        "name": "Mc Arthur Foundation",
+        "address": "No 1 Sankuru Close, Off Rima Street, Off Gurara St, Maitama 900271, Abuja",
+        "image": ""
+      },
+      {
+        "name": "EHORECON Head Office",
+        "address": "No 15 M.L.Wushishi Crescent, Off Okonjo Iweala Way, Utako, Abuja. PMB 627 Garki, Abuja 900001.",
+        "image": ""
+      },
+      {
+        "name": "UNEP",
+        "address": "UN House Plot 617/618, Central Area District, Diplomatic Zone PMB 2851, Garki, Abuja.",
+        "image": ""
+      },
+      {
+        "name": "Ministry Of Environment",
+        "address": "340 Independence Way, Central Area, Abuja.",
+        "image": ""
+      },
+      {
+        "name": "Bwari Area Council",
+        "address": "Area Council Secretariat Bwari, FCT, Abuja.",
+        "image": ""
+      },
+      {
+        "name": "The Embassy Of France",
+        "address": "European Union Crescent, Off Constitution Avenue, Central Business District, Abuja.",
+        "image": ""
+      },
+      {
+        "name": "China Civil Engineering Construction Company (CCECC)",
+        "address": "Airport Road, Behind Dantata Quarry, 2nd Junction, Off Galadima Village, Abuja.",
+        "image": ""
+      },
+      {
+        "name": "Abuja Environmental Protection Board",
+        "address": "776 Cadastral A.O, Central Business District, Federal Capital Territory, Abuja Nigeria.",
+        "image": ""
+      },
+      {
+        "name": "Engr. Hassan Musa",
+        "address": "Senior Special Assistant to the President on Environment, Federal Ministry Of Environment, Mabushi-Abuja.",
+        "image": ""
+      },
+      {
+        "name": "Engr. Finbar Zima",
+        "address": "Director Rail Transport, Ministry Of Transport, Bucar Dipchirma House, FCT-Abuja.",
+        "image": ""
+      }
+    ]
+  }

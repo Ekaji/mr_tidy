@@ -33,12 +33,12 @@ export default function Index() {
         <p>
         Also, poor maintenance of the railway tracks in the long run may affect its function because if 
         the situation continues, the heaps of refuse may extend unto the railway tracks.
-        The situation remains a cause for worry and a lingering eyesore for some wellmeaning residents, as they cannot walk past these areas without noticing these hazards.
+        The situation remains a cause for worry and a lingering eyesore for some well meaning residents, as they cannot walk past these areas without noticing these hazards.
         </p>
         
         <p>
         The environmental walk championed by TAC Africa in collaboration with Mr Tidy Nigeria will create awareness in these communities and help the residents to see a more proper way of disposing waste rather than close to the railway lines. The environmental campaign is geared towards a cleaner and safer railway corridors 
-        alon the Kubwa-Chikakore railway tracks and help the residents to realize that a clean railway corridor is a social responsibility asit improves the overall health and overall wellbeing of their families.
+        along the Kubwa-Chikakore railway tracks and help the residents to realize that a clean railway corridor is a social responsibility as it improves the overall health and overall wellbeing of their families.
         </p>
       </div>
       <Team />

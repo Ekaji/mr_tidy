@@ -63,12 +63,11 @@ export default function Navbar({ }) {
                 
                 </Link>
               </li>
-              <li className="nav-item my-auto">
+              {/* <li className="nav-item my-auto">
                 <Link  href="/auth/userAuth"
                     className="px-12 py-2 flex items-center text-xs font-bold leading-snug text-white ease-in duration-200 hover:opacity-65"
                     target='_blank' rel='noopener'
                   >
-                    {/* <span className="ml-2 text-lg font-normal">Register</span> */}
                     <Button variant="btn-alternative" text="Sign Up" />
                   
                 </Link>
@@ -79,11 +78,10 @@ export default function Navbar({ }) {
                     className="px-12 py-2 flex items-center text-xs font-bold leading-snug text-white ease-in duration-200 hover:opacity-65"
                     target='_blank' rel='noopener'
                   >
-                    {/* <span className="ml-2 text-lg font-normal">Register</span> */}
                     <Button variant="btn-default" text="Login" />
                   
                 </Link>
-              </li>
+              </li> */}
               
             </ul>
           </div>

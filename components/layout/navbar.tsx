@@ -45,23 +45,23 @@ export default function Navbar({ }) {
                 </Link>
               </li>
               <li className="nav-item my-auto">
-                <Link href="/aboutus"
+                <a href="#aboutus"
                     className="px-12 py-2 flex items-center text-xs font-bold leading-snug text-white ease-in duration-200 hover:opacity-65"
                     
                   >
                     <span className="ml-2 text-lg font-normal">About Us</span>
                  
-                </Link>
+                </a>
               </li>
              
               <li className="nav-item my-auto">
-              <Link href="/services"
+              <a href="#services"
                   className="px-12 py-2 flex items-center text-xs font-bold leading-snug text-white ease-in duration-200 hover:opacity-65"
                   
                 >
                   <span className="ml-2 text-lg font-normal">Services</span>
                 
-                </Link>
+                </a>
               </li>
 
 

@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function About() {
   return (
-    <section className='flex items-center min-h-[40rem]'>
+    <section id='aboutus' className='flex items-center min-h-[40rem]'>
   <div className="px-4 py-12 mx-auto max-w-7xl sm:px-6 md:px-12 lg:px-24 lg:py-24 ">
     <div className="flex flex-wrap lg:flex-row-reverse items-center mx-auto max-w-7xl">
       <div className="w-full lg:max-w-lg lg:w-1/2 rounded-xl">

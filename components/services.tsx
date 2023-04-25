@@ -44,7 +44,7 @@ export default function Services() {
     const [popover, setPopover] = useState(initialState)
 
     return (
-        <section className=" text-black">
+        <section id='services' className=" text-black">
 
             <div className="mx-auto max-w-screen-xl px-4 py-0 lg:py-32 lg:flex lg:items-center">
                 <div className="mx-auto">

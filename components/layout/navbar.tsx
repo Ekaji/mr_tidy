@@ -10,9 +10,9 @@ export default function Navbar({ }) {
   
 
   return (
-    <div className='absolute w-screen  '>
+    <div className='absolute w-full  '>
       <nav className="relative flex flex-wrap items-center  justify-between  z-20">
-        <div className="w-screen mx-auto flex flex-wrap items-center justify-between backdrop-blur-lg ">
+        <div className="w-screen mx-auto flex flex-wrap items-center justify-between backdro p-blur-lg ">
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
             <Link
               className="text-sm font-bold leading-relaxed inline-block mx-4 py-2 whitespace-nowrap text-white "
@@ -63,6 +63,18 @@ export default function Navbar({ }) {
                 
                 </Link>
               </li>
+
+
+              <li className="nav-item my-auto">
+              <Link href="/events"
+                  className="px-12 py-2 flex items-center text-xs font-bold leading-snug text-white ease-in duration-200 hover:opacity-65"
+                  
+                >
+                  <span className="ml-2 text-lg font-normal">Events</span>
+                
+                </Link>
+              </li>
+
               {/* <li className="nav-item my-auto">
                 <Link  href="/auth/userAuth"
                     className="px-12 py-2 flex items-center text-xs font-bold leading-snug text-white ease-in duration-200 hover:opacity-65"

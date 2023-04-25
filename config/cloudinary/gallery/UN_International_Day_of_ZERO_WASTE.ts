@@ -1,0 +1,130 @@
+export const UN_International_Day_of_ZERO_WASTE = {
+    title: 'UN International Day of ZERO WASTE',
+    // content: "hello",
+    slug: 'UN_International_Day_of_ZERO_WASTE',
+    date: 'april 1st 2023',
+    displayImage: 'https://res.cloudinary.com/tacafrica/image/upload/v1680704643/UN_Intl_Day_of_ZERO_WASTE/Screenshot_from_2023-04-05_15-23-32_hpcrma.png',
+    images: [
+        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703965/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401055_result_mijnox.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },
+        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703963/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401060_result_ewzywb.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703963/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401039_result_opgynd.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703963/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401039_result_opgynd.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703961/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401040_result_u8orxc.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703959/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401046_result_jgqdul.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703959/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401087_result_kdo6zd.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703958/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401038_result_vyxidv.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703956/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401054_result_g9xp1k.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703955/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401078_result_vgh0en.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703955/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401080_result_ky7cbt.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703953/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401079_result_z4ehco.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703952/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401047_result_z1ytdk.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703952/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401061_result_wlqds4.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703947/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401069_result_dksyx1.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703948/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401067_result_na7hhe.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703947/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401052_result_maaevo.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703942/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401065_result_i2fwga.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703942/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401048_result_uhjbc3.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703941/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401044_result_enuetv.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703941/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401025_result_wtabzq.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703940/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401081_result_xgglia.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703939/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401088_result_ewvmzj.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703937/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401062_result_fc3gto.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703930/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401051_result_slz65v.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703930/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401012_result_syofp5.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703929/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401043_result_tgw9cl.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703928/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401072_result_vynla3.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703928/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401037_result_ldrfxd.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703924/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401050_result_yvtvvb.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703924/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401002_result_dff7kn.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703923/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401085_result_kbmxmk.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703922/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401089_result_wzha4d.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703920/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401026_result_qgwbsn.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703920/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401006_result_pvznft.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703919/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401102_result_igcbgc.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703919/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401120_result_e5hoap.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703919/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401003_result_fcpnsn.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },        {
+            src: 'https://res.cloudinary.com/tacafrica/image/upload/v1680703918/UN_Intl_Day_of_ZERO_WASTE/YOD-20230401015_result_nf7jog.webp',
+            alt: 'UN_International_Day_of_ZERO_WASTE'
+        },
+        
+        
+    ]
+}

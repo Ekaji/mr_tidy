@@ -4,17 +4,17 @@ export default function Services() {
 
     const services = [
         {
-            title: "Our Services",
+            title: "Solid Waste Evacuation and Disposal",
             content: "At MR Tidy Nigeria, we understand the importance of a clean and safe environment.That's why we offer a wide range of waste management services to meet the needs of our residential, commercial, and industrial clients."
         },
         {
             title: "Material Recovery and Recycling",
             content: " Our recycling services include collection of recyclable materials from commercial, industrial and residential customers, for which we charge collection and processing fees. Each day, our facilities receive and process a wide variety of recyclable materials including cardboard, glass, plastic containers, office paper and newsprint. Our managers are skilled at harvesting quality recoverable material that is marketed to post-consumer mills for the best attainable product value. Through our network of material recovery facilities and our recycling collection services, we work hard to help our customers reduce waste generation and increase recovery rates. "
         },
-        {
-            title: "Dumpsite/Landfill management",
-            content: "  We provide excellent dumpsite/landfill management services. We currently provide the highest standards of environmental protection while effectively disposing of non-recyclable, non-hazardous solid waste that cannot be diverted. Our facilities are staffed by experienced operators who employ the most modern landfill operating procedures. To ensure that we continue to meet the highest environmental protection standards, we encourage government inspection of our sites and invest in independent third-party monitoring."
-        },
+        // {
+        //     title: "Dumpsite/Landfill management",
+        //     content: "  We provide excellent dumpsite/landfill management services. We currently provide the highest standards of environmental protection while effectively disposing of non-recyclable, non-hazardous solid waste that cannot be diverted. Our facilities are staffed by experienced operators who employ the most modern landfill operating procedures. To ensure that we continue to meet the highest environmental protection standards, we encourage government inspection of our sites and invest in independent third-party monitoring."
+        // },
         {
             title: "Waste Containerization",
             content: "   As is a common knowledge in our company ‘waste management strategies without effective waste containerization is counterproductive’, we recognize that effective containerization drives effective waste management. As a result of this, we offer the supply of quality and durable waste containers ranging from 240 litre bins to Mammoth bins for effective waste containerization. We have strategic partnerships all over the world for the supply of state-of-the-art waste containers."
@@ -22,18 +22,19 @@ export default function Services() {
             title: "Vector Control",
             content: " According to our intelligence, vector-borne infections have been recorded to be one of the largest causes of health risks that have long impacted human health for decades especially in sub-Saharan Africa. These diseases range from malaria, typhoid, cholera, yellow fever, dengue fever and river blindness amongst others. To curb the effects of these disease causing vectors, we offer efficient vector control using industry standard pesticides and fumigation services to rid your environment of disease causing germs."
         }, {
-            title: "ZLGA Domestic",
-            content: "     ZLGA Domestic is a hygiene solution company that specializes in cleaning services and the distribution of quality hygiene, industrial/domestic, products for industrial and domestic use. A customer focused firm with an objective to use our wealth of experiences, professional work force and quality products and services to meet the needs of our customers. ZLGA Domestic is dedicated to deliver 101% on the investments of our customers by a combination of hard work, professionalism and excellence in service delivery. ZLGA Domestic is best known for Professionalism, dynamism, affordability and quality of products used for all cleaning tasks. We are one of the best in janitorial cleaning and fumigation services in Nigeria. We are your perfect cleaning contractor. "
+            title: "Mr Tidy Cleaning",
+            content: "Mr Tidy Cleaning is a hygiene solution company that specializes in cleaning services and the distribution of quality hygiene, industrial/domestic, products for industrial and domestic use. A customer focused firm with an objective to use our wealth of experiences, professional work force and quality products and services to meet the needs of our customers. ZLGA Domestic is dedicated to deliver 101% on the investments of our customers by a combination of hard work, professionalism and excellence in service delivery. ZLGA Domestic is best known for Professionalism, dynamism, affordability and quality of products used for all cleaning tasks. We are one of the best in janitorial cleaning and fumigation services in Nigeria. We are your perfect cleaning contractor. "
         }, {
-            title: "Revenue Collection System",
+            title: "Enumeration and Data Management",
             content: "We offer an electronic revenue collection payment system that provides a transparent means of payment for waste, water bill and general utilities. Our system offers a transparent revenue collection generation system and also easy to use system for payments for our customers."
         }, {
             title: "Residential",
             content: "We provide environmentally responsible and affordable non-hazardous solid municipal waste solutions. We possess the experience and resources to provide our customers with superior customer service, while remaining sensitive to environmental concerns. Municipal waste removal services include curbside bag service, fully or semi-automated systems, and customized community programs."
-        }, {
-            title: "Commercial and Industrial",
-            content: "   We provide hand collection and containerized services to a wide variety of commercial and industrial customers. Most commercial and industrial customers are provided with containers that are designed to be lifted mechanically and either emptied into a collation vehicle’s compactor/tipper or, in the case of the large roll-off containers, to be loaded onto the collection vehicle. Our standard commercial containers generally range in size from 240 liters bins to Roll on Roll off Containers."
-        }
+        },
+        // {
+        //     title: "Commercial and Industrial",
+        //     content: " We provide hand collection and containerized services to a wide variety of commercial and industrial customers. Most commercial and industrial customers are provided with containers that are designed to be lifted mechanically and either emptied into a collation vehicle’s compactor/tipper or, in the case of the large roll-off containers, to be loaded onto the collection vehicle. Our standard commercial containers generally range in size from 240 liters bins to Roll on Roll off Containers."
+        // }
     ];
 
     const initialState = {
@@ -54,7 +55,7 @@ export default function Services() {
                         </h1>
 
                         <p className="mx-auto mt-4 max-w-xl sm:text-xl sm:leading-relaxed">
-                            At MR Tidy Nigeria, we understand the importance of a clean and safe environment. {"That's"}
+                            At Mr. Tidy Nigeria, we understand the importance of a clean and safe environment. {"That's "}
                             why we offer a wide range of
                                                                                                         waste management services to meet the needs of our residential, commercial, and industrial clients.
                         </p>
